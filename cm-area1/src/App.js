@@ -1,15 +1,16 @@
-import { Route, HashRouter ,Routes,Link} from "react-router-dom";
+import { Route, HashRouter ,Routes} from "react-router-dom";
 import Home from "./Page/Home"
 import About from "./Page/About"
 import Profile from "./Page/Profile"
+import Navbar from "./Component/Navbar"
+
 function App() {
     return (
+      
             <HashRouter>
-            <nav>
-              <Link to="/">Home</Link>
-              <Link to="/about">About</Link>
-              <Link to="/profile">Profile</Link>
-            </nav>
+            
+              <Navbar/>
+              
             <Routes>
               <Route path="/" element={<Home/>}/>
               <Route path="/about" element={<About/>}/>
