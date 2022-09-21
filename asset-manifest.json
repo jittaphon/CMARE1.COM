@@ -1,10 +1,13 @@
 {
   "files": {
-    "main.js": "/CMARE1.COM/static/js/main.9ac80764.js",
+    "main.css": "/CMARE1.COM/static/css/main.64e535d0.css",
+    "main.js": "/CMARE1.COM/static/js/main.d7e9b4bc.js",
     "index.html": "/CMARE1.COM/index.html",
-    "main.9ac80764.js.map": "/CMARE1.COM/static/js/main.9ac80764.js.map"
+    "main.64e535d0.css.map": "/CMARE1.COM/static/css/main.64e535d0.css.map",
+    "main.d7e9b4bc.js.map": "/CMARE1.COM/static/js/main.d7e9b4bc.js.map"
   },
   "entrypoints": [
-    "static/js/main.9ac80764.js"
+    "static/css/main.64e535d0.css",
+    "static/js/main.d7e9b4bc.js"
   ]
 }
