@@ -1,13 +1,22 @@
 {
   "files": {
-    "main.css": "/CMARE1.COM/static/css/main.64e535d0.css",
-    "main.js": "/CMARE1.COM/static/js/main.d7e9b4bc.js",
+    "main.css": "/CMARE1.COM/static/css/main.28db1e01.css",
+    "main.js": "/CMARE1.COM/static/js/main.39c959ae.js",
+    "static/media/banner-bg.png": "/CMARE1.COM/static/media/banner-bg.cc1273af450504afe755.png",
+    "static/media/CentraNo2-Bold.ttf": "/CMARE1.COM/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/CMARE1.COM/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/CMARE1.COM/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/footer-bg.png": "/CMARE1.COM/static/media/footer-bg.7bd67c0f73571d0acc02.png",
+    "static/media/nav-icon3.svg": "/CMARE1.COM/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
+    "static/media/logo.svg": "/CMARE1.COM/static/media/logo.eaf3c0bc058e0ed6471ba20dc0af6da2.svg",
     "index.html": "/CMARE1.COM/index.html",
-    "main.64e535d0.css.map": "/CMARE1.COM/static/css/main.64e535d0.css.map",
-    "main.d7e9b4bc.js.map": "/CMARE1.COM/static/js/main.d7e9b4bc.js.map"
+    "static/media/nav-icon1.svg": "/CMARE1.COM/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "static/media/nav-icon2.svg": "/CMARE1.COM/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
+    "main.28db1e01.css.map": "/CMARE1.COM/static/css/main.28db1e01.css.map",
+    "main.39c959ae.js.map": "/CMARE1.COM/static/js/main.39c959ae.js.map"
   },
   "entrypoints": [
-    "static/css/main.64e535d0.css",
-    "static/js/main.d7e9b4bc.js"
+    "static/css/main.28db1e01.css",
+    "static/js/main.39c959ae.js"
   ]
 }
