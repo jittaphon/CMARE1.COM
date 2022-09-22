@@ -1,10 +1,16 @@
 import React from 'react';
-
+import { HomeBanner } from "../Component/HomeComponent";
+import { News } from "../Component/New";
+import {Skills} from "../Component/Skill";
 const Home = () => {
+
     return (
-        <div>
-            This is Home page
+        <div className="">
+        <HomeBanner />
+        <Skills/>
+        <News/>
         </div>
+
     );
 }
 

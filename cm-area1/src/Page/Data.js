@@ -1,10 +1,8 @@
 import React from 'react';
-
+import { DataPage } from "../Component/DataComponent";
 const About = () => {
     return (
-        <div>
-            this is About
-        </div>
+        <DataPage />
     );
 }
 
